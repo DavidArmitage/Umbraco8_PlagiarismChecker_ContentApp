@@ -1,10 +1,3 @@
------------------------------------------------
-Umbraco8 Plagiarism Checker ContentApp
------------------------------------------------
-This is a content app to assist content writers checking their content is not Plagiarised and duplicated on other websites. This makes use of Copyscape API which is a very cheap paid API service. Users are required to create an API key. Information how to do this can be found in the documentation.
-
-For trial purposes I have added an API key with some credits. Once you have reviewed the app please create your own API key.
-
 -------------------------------------
 CONFIGURATION INSTRUCTIONS
 -------------------------------------
@@ -60,15 +53,19 @@ If you need help with this, please don’t hesitate to drop me an email at.
 david@recsitedesign.com
 
 
-PLEASE SUPPORT THIS APP MY UP VOTING 
+
+PLEASE SHOW YOUR APPRECIATION
 -------------------------------------
-If you like this content app then please feel free to show your appreciation by voting.
+If you like this content app then please feel free to show your appreciation by voting and leaving comments here.
+https://our.umbraco.com/packages/backoffice-extensions/plagiarism-checker-content-app/
+
 
 
 WHERE TO REPORT ISSUES
 -------------------------------------
 You can either drop me an email at david@recsitedesign.com or you can log a issue at the following URL.
 https://github.com/DavidArmitage/Umbraco8_PlagiarismChecker_ContentApp/issues
+
 
 
 LATEST VERSION
